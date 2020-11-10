@@ -1,2 +1,6 @@
 # Measurement-and-data-acquisition
-Practicum of measurement and data acquisition systems course homeworks
+
+1. Homework 1:
+    * Data acquisition and processing using LabView.
+2. Homework 2:
+    * Data acquisition and processing using Arduino and Python.
